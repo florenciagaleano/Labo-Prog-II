@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 6\obj\Debug\Ejercicio 6.pdb

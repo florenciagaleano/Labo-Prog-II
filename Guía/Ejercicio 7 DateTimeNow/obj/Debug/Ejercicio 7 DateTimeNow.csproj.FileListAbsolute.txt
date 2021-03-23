@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\obj\Debug\Ejercicio 7 DateTimeNow.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\obj\Debug\Ejercicio 7 DateTimeNow.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\bin\Debug\Ejercicio 7 DateTimeNow.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\bin\Debug\Ejercicio 7 DateTimeNow.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\bin\Debug\Ejercicio 7 DateTimeNow.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\obj\Debug\Ejercicio 7 DateTimeNow.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 7 DateTimeNow\obj\Debug\Ejercicio 7 DateTimeNow.pdb

@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\bin\Debug\Ejercicio 15.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\bin\Debug\Ejercicio 15.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\bin\Debug\Ejercicio 15.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\obj\Debug\Ejercicio 15.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\obj\Debug\Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\obj\Debug\Ejercicio 15.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 15\Ejercicio 15\obj\Debug\Ejercicio 15.pdb

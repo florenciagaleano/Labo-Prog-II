@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\bin\Debug\EjercicioClase2.exe.config
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\bin\Debug\EjercicioClase2.exe
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\bin\Debug\EjercicioClase2.pdb
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\obj\Debug\EjercicioClase2.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\obj\Debug\EjercicioClase2.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\obj\Debug\EjercicioClase2.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\obj\Debug\EjercicioClase2.exe
+C:\Users\Flia. Galeano\source\repos\EjercicioClase2\EjercicioClase2\obj\Debug\EjercicioClase2.pdb

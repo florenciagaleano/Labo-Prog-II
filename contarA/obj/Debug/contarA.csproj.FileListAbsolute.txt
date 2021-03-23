@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\obj\Debug\contarA.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\obj\Debug\contarA.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\bin\Debug\contarA.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\bin\Debug\contarA.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\bin\Debug\contarA.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\obj\Debug\contarA.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\contarA\obj\Debug\contarA.pdb
