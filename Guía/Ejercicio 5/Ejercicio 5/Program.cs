@@ -12,7 +12,7 @@ namespace Ejercicio_5
         {
             int valor;
 
-            Console.Title = "Ejercicio 5 Flor idola";
+            Console.Title = "Ejercicio 5";
 
             Console.Write("Ingrese un numero: ");
             int.TryParse(Console.ReadLine(), out valor);
