@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Biblioteca19.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\bin\Debug\Biblioteca19.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.pdb

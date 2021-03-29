@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\obj\Debug\BibliotecaConversor.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\obj\Debug\BibliotecaConversor.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\bin\Debug\BibliotecaConversor.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\bin\Debug\BibliotecaConversor.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\obj\Debug\BibliotecaConversor.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\BibliotecaConversor\obj\Debug\BibliotecaConversor.pdb

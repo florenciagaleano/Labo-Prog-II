@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\bin\Debug\Billetes.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\bin\Debug\Billetes.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.pdb

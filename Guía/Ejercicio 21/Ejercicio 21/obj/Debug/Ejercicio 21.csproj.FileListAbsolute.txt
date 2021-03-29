@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\bin\Debug\Ejercicio 21.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\bin\Debug\Ejercicio 21.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\bin\Debug\Ejercicio 21.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\bin\Debug\Temperaturas.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\bin\Debug\Temperaturas.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\obj\Debug\Ejercicio 21.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\obj\Debug\Ejercicio 21.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\obj\Debug\Ejercicio 21.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\obj\Debug\Ejercicio 21.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 21\Ejercicio 21\obj\Debug\Ejercicio 21.pdb

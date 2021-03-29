@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Geometria.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\bin\Debug\Geometria.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\obj\Debug\PruebaGeometria.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\obj\Debug\PruebaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\obj\Debug\PruebaGeometria.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.pdb

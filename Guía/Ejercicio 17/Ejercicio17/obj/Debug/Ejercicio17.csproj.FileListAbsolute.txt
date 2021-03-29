@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\bin\Debug\BibliotecaBoligrafo.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\bin\Debug\BibliotecaBoligrafo.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb

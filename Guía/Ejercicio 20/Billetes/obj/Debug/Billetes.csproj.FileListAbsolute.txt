@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\bin\Debug\Billetes.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\bin\Debug\Billetes.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\obj\Debug\Billetes.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 20\Billetes\obj\Debug\Billetes.pdb

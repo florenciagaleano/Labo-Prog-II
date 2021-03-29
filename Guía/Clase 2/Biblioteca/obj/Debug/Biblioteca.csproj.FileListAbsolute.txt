@@ -1,6 +1,0 @@
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\bin\Debug\Biblioteca.dll
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\bin\Debug\Biblioteca.pdb
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\obj\Debug\Biblioteca.dll
-C:\Users\Flia. Galeano\source\repos\Clase 2\Biblioteca\obj\Debug\Biblioteca.pdb

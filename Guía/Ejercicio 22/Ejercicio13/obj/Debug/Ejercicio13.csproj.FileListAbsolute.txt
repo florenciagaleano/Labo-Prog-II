@@ -1,0 +1,20 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\bin\Debug\BibliotecaConversor.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\bin\Debug\BibliotecaConversor.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio13\Ejercicio13\obj\Debug\Ejercicio13.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\bin\Debug\BibliotecaConversor.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\bin\Debug\BibliotecaConversor.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\obj\Debug\Ejercicio13.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 22\Ejercicio13\obj\Debug\Ejercicio13.pdb

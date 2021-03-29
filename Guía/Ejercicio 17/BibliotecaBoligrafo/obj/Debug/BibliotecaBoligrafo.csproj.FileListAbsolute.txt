@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\bin\Debug\BibliotecaBoligrafo.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\bin\Debug\BibliotecaBoligrafo.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\obj\Debug\BibliotecaBoligrafo.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\obj\Debug\BibliotecaBoligrafo.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\obj\Debug\BibliotecaBoligrafo.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio17\BibliotecaBoligrafo\obj\Debug\BibliotecaBoligrafo.pdb
