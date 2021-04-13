@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\bin\Debug\Ejercicio 26.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\bin\Debug\Ejercicio 26.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\bin\Debug\Ejercicio 26.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\obj\Debug\Ejercicio 26.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\obj\Debug\Ejercicio 26.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\obj\Debug\Ejercicio 26.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 26\Ejercicio 26\obj\Debug\Ejercicio 26.pdb

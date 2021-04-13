@@ -1,0 +1,13 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\bin\Debug\FrmConversor.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\bin\Debug\FrmConversor.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\bin\Debug\FrmConversor.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\bin\Debug\BibliotecaConversor.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\bin\Debug\BibliotecaConversor.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.frmConversorNumero.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Ejercicio 25\FrmConversor\obj\Debug\FrmConversor.pdb

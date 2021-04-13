@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\bin\Debug\Ejercicio 28.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\bin\Debug\Ejercicio 28.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\bin\Debug\Ejercicio 28.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio 28.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio_28.FrmContador.resources
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio_28.Properties.Resources.resources
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio 28.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio 28.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio 28.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 28\Ejercicio 28\obj\Debug\Ejercicio 28.pdb
