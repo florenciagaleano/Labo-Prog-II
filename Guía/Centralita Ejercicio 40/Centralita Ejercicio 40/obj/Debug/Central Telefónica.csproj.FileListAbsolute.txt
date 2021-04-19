@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\bin\Debug\Centralita Ejercicio 40.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\bin\Debug\Centralita Ejercicio 40.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\bin\Debug\Centralita Ejercicio 40.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\bin\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\obj\Debug\Central Telefónica.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\obj\Debug\Central Telefónica.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\obj\Debug\Central Telefónica.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\obj\Debug\Centralita Ejercicio 40.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\Centralita Ejercicio 40\obj\Debug\Centralita Ejercicio 40.pdb
