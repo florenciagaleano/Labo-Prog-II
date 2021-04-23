@@ -1,0 +1,20 @@
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\bin\Debug\Clase_11.exe.config
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\bin\Debug\Clase_11.exe
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\bin\Debug\Clase_11.pdb
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\bin\Debug\Formas.dll
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\bin\Debug\Formas.pdb
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\obj\Debug\Clase_11.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\obj\Debug\Clase_11.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\obj\Debug\Clase_11.exe
+C:\Users\Flia. Galeano\source\repos\Clase_11\Clase_11\obj\Debug\Clase_11.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\bin\Debug\Clase_11.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\bin\Debug\Clase_11.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\bin\Debug\Clase_11.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\bin\Debug\Formas.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\bin\Debug\Formas.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\obj\Debug\Clase_11.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\obj\Debug\Clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\obj\Debug\Clase_11.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\obj\Debug\Clase_11.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Hecho en clase\Clase_11\Clase_11\obj\Debug\Clase_11.pdb

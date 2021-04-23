@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\bin\Debug\Prueba.exe
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\obj\Debug\Prueba.exe
+C:\Users\Flia. Galeano\source\repos\Parcialito Neiner\Prueba\obj\Debug\Prueba.pdb

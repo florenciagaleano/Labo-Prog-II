@@ -1,0 +1,15 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\FormCantina.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\Entidades.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\bin\Debug\Entidades.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.FrmCantina.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\20191010-PrimerParcial-alumno\FormCantina\obj\Debug\FormCantina.pdb

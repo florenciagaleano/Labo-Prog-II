@@ -19,12 +19,12 @@ namespace FrmCentralita
         //protected Centralita centralita;
         public FrmMenu()
         {
+            this.llamador= new FrmLlamador(new Centralita("Mi centralita"));
             InitializeComponent();
         }
 
         private void btn_generarLlamada_Click(object sender, EventArgs e)
         {
-            this.llamador= new FrmLlamador(new Centralita("Mi centralita"));
             this.llamador.ShowDialog();
         }
 

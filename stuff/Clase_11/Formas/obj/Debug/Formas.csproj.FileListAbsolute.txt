@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\bin\Debug\Formas.dll
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\bin\Debug\Formas.pdb
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\obj\Debug\Formas.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\obj\Debug\Formas.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\obj\Debug\Formas.dll
+C:\Users\Flia. Galeano\source\repos\Clase_11\Formas\obj\Debug\Formas.pdb
