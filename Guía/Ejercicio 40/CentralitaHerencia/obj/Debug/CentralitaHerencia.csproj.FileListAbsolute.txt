@@ -1,0 +1,2 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
