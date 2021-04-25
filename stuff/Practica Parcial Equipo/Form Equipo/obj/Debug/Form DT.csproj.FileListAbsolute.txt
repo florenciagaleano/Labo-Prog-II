@@ -1,0 +1,13 @@
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\bin\Debug\Form Equipo.exe.config
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\bin\Debug\Form Equipo.exe
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\bin\Debug\Form Equipo.pdb
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\bin\Debug\Entidades.dll
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\bin\Debug\Entidades.pdb
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form DT.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form_Equipo.frmDT.resources
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form_Equipo.Properties.Resources.resources
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form DT.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form DT.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form DT.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form Equipo.exe
+C:\Users\Flia. Galeano\source\repos\[GALEANO].[FLORENCIA]\Form Equipo\obj\Debug\Form Equipo.pdb

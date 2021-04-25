@@ -1,0 +1,13 @@
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\bin\Debug\Form Jardin.exe.config
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\bin\Debug\Form Jardin.exe
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\bin\Debug\Form Jardin.pdb
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\bin\Debug\Biblioteca de claess.dll
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\bin\Debug\Biblioteca de claess.pdb
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form_Jardin.FrmJardin.resources
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form_Jardin.Properties.Resources.resources
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.exe
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Form Jardin\obj\Debug\Form Jardin.pdb

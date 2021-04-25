@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\bin\Debug\Biblioteca de claess.dll
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\bin\Debug\Biblioteca de claess.pdb
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\obj\Debug\Biblioteca de clases.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\obj\Debug\Biblioteca de clases.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\obj\Debug\Biblioteca de claess.dll
+C:\Users\Flia. Galeano\source\repos\Biblioteca de claess\Biblioteca de claess\obj\Debug\Biblioteca de claess.pdb

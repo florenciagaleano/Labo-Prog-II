@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca de clases", "Biblioteca de claess\Biblioteca de clases.csproj", "{F126DD42-EA1F-413B-9117-DECE39454373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form Jardin", "Form Jardin\Form Jardin.csproj", "{301A42BC-B507-4306-8BB0-9A7E9C89F0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F126DD42-EA1F-413B-9117-DECE39454373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F126DD42-EA1F-413B-9117-DECE39454373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F126DD42-EA1F-413B-9117-DECE39454373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F126DD42-EA1F-413B-9117-DECE39454373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301A42BC-B507-4306-8BB0-9A7E9C89F0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301A42BC-B507-4306-8BB0-9A7E9C89F0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301A42BC-B507-4306-8BB0-9A7E9C89F0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301A42BC-B507-4306-8BB0-9A7E9C89F0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90720F90-E919-490C-A92A-0160E6692C2E}
+	EndGlobalSection
+EndGlobal
