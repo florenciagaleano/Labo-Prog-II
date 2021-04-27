@@ -13,6 +13,13 @@ namespace Entidades
         private int edad;
         private string nombre;
 
+        /// <summary>
+        /// Constructor de persona
+        /// </summary>
+        /// <param name="apellido"></param>
+        /// <param name="dni"></param>
+        /// <param name="edad"></param>
+        /// <param name="nombre"></param>
         public Persona(string apellido, int dni, int edad, string nombre)
         {
             this.apellido = apellido;
@@ -21,6 +28,9 @@ namespace Entidades
             this.nombre = nombre;
         }
 
+        /// <summary>
+        /// Propiedad que devuelve string
+        /// </summary>
         public string Apellido 
         { 
             get
@@ -29,6 +39,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que devuelve string
+        /// </summary>
         public string Nombre
         {
             get
@@ -37,6 +50,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Propiedad que devuelve int
+        /// </summary>
         public int Dni 
         {
             get
@@ -45,6 +61,9 @@ namespace Entidades
             } 
         }
 
+        /// <summary>
+        /// Propiedad que devuelve int
+        /// </summary>
         public int Edad
         {
             get
@@ -55,6 +74,10 @@ namespace Entidades
 
         public abstract bool ValidarAptitud();
 
+        /// <summary>
+        /// Metodo que devuelve una cadena
+        /// </summary>
+        /// <returns>Cadena que se devolverá</returns>
         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

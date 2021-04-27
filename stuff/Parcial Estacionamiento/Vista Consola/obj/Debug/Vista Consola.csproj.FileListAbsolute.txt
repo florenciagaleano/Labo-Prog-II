@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\bin\Debug\Vista Consola.exe.config
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\bin\Debug\Vista Consola.exe
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\bin\Debug\Vista Consola.pdb
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\bin\Debug\Vehiculos.dll
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\bin\Debug\Vehiculos.pdb
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\obj\Debug\Vista Consola.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\obj\Debug\Vista Consola.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\obj\Debug\Vista Consola.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\obj\Debug\Vista Consola.exe
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vista Consola\obj\Debug\Vista Consola.pdb

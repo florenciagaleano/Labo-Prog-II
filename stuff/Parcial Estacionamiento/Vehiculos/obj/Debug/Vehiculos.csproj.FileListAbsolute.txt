@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\bin\Debug\Vehiculos.dll
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\obj\Debug\Vehiculos.dll
+C:\Users\Flia. Galeano\source\repos\Parcial Estacionamiento\Vehiculos\obj\Debug\Vehiculos.pdb
