@@ -88,17 +88,7 @@ namespace Biblioteca_de_claess
             sb.AppendLine("Plantas:");
             foreach(Planta p in this.plantas)
             {
-                if(p is Rosal)
-                {
-                    sb.AppendLine(((Rosal)p).ResumenDeDatos());
-                }else if(p is Banano)
-                {
-                    sb.AppendLine(((Banano)p).ResumenDeDatos());
-                }
-                else
-                {
-                    sb.AppendLine(p.ResumenDeDatos());
-                }
+                sb.AppendLine(p.ResumenDeDatos());
             }
 
             return sb.ToString();

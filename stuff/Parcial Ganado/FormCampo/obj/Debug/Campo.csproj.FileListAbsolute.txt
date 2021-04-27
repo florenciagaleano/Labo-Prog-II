@@ -1,0 +1,13 @@
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\bin\Debug\FormCampo.exe.config
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\bin\Debug\FormCampo.exe
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\bin\Debug\FormCampo.pdb
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\Campo.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\FormCampo.FrmPrincipal.resources
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\FormCampo.Properties.Resources.resources
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\Campo.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\Campo.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\Campo.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\FormCampo.exe
+C:\Users\Flia. Galeano\source\repos\Parcial Ganado\FormCampo\obj\Debug\FormCampo.pdb
