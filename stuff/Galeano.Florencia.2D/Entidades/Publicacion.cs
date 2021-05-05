@@ -19,7 +19,7 @@ namespace Entidades
         public Publicacion(string nombre, int stock)
             :this(nombre)
         {
-            this.stock = stock;
+            this.Stock = stock;
         }
         public Publicacion(string nombre, int stock, float importe)
             :this(nombre,stock)
@@ -27,7 +27,7 @@ namespace Entidades
             this.importe = importe;
         }
 
-        public abstract bool EsColor { get; }
+        protected abstract bool EsColor { get; }
 
         public virtual bool HayStock
         {
@@ -91,7 +91,7 @@ namespace Entidades
 
             sb.AppendLine($"Importe: ${this.importe}");
 
-            return sb.ToString();
+            return sb.ToString().ToUpper();
         }
     }
 }

@@ -18,7 +18,7 @@ namespace VistaForm
         public FrmTest()
         {
             InitializeComponent();
-            vendedor = new Vendedor("Flor♥");
+            this.vendedor = new Vendedor("Flor ♥");
         }
 
         private void FrmTest_Load(object sender, EventArgs e)
@@ -29,11 +29,11 @@ namespace VistaForm
             Comic p4 = new Comic("La Muerte de Superman (Superman)", true, 1, 1850);
             Comic p5 = new Comic("Año Uno (Batman)", false, 3, 1270);
 
-            this.lstStock.Items.Add(p1.ToString());
-            this.lstStock.Items.Add(p2.ToString());
-            this.lstStock.Items.Add(p3.ToString());
-            this.lstStock.Items.Add(p4.ToString());
-            this.lstStock.Items.Add(p5.ToString());
+            this.lstStock.Items.Add(p1);
+            this.lstStock.Items.Add(p2);
+            this.lstStock.Items.Add(p3);
+            this.lstStock.Items.Add(p4);
+            this.lstStock.Items.Add(p5);
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -54,33 +54,25 @@ namespace VistaForm
 
         private void btnVender_Click(object sender, EventArgs e)
         {
-           if(this.lstStock.SelectedItem is null)
+            Publicacion p = this.lstStock.SelectedItem as Publicacion;
+
+            if (p is null)
             {
                 MessageBox.Show("Debe elegir una publicacion", "WARNING", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }else
             {
-               string nombre = this.lstStock.SelectedItem.ToString();
-                Publicacion p = (Publicacion)lstStock.SelectedItem ;
-                //primeros 3 son biografias
-                if (this.lstStock.SelectedIndex == 0 || this.lstStock.SelectedIndex == 1 || this.lstStock.SelectedIndex == 2)
-                {
-                    p = new Biografia(nombre, 8, 153);
-                }
-                else
-                {
-                    p = new Comic(nombre, true, 15, 254);
-                }
+                //this.lstStock.SelectedItem;
 
                 if (vendedor + p)
                 {
                     MessageBox.Show("Se realizo la venta con exito!", "EXITO", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-
                 }
                 else
                 {
                     MessageBox.Show("No se pudo realizar la venta", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+          
         }
 
         private void btnVerInform_Click(object sender, EventArgs e)

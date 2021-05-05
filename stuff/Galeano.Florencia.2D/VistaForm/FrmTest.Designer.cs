@@ -70,6 +70,7 @@ namespace VistaForm
             // 
             this.rtbInforme.Location = new System.Drawing.Point(249, 12);
             this.rtbInforme.Name = "rtbInforme";
+            this.rtbInforme.ReadOnly = true;
             this.rtbInforme.Size = new System.Drawing.Size(213, 327);
             this.rtbInforme.TabIndex = 3;
             this.rtbInforme.Text = "";

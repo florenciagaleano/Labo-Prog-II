@@ -13,7 +13,7 @@ namespace Entidades
         /// </summary>
         /// <param name="nombre">nombre que se asignara</param>
         public Biografia(string nombre)
-            :this(nombre,0,0)
+            :base(nombre)
         {
             
         }
@@ -24,7 +24,7 @@ namespace Entidades
         /// <param name="nombre">nombre a asignar</param>
         /// <param name="stock">stock a asignar</param>
         public Biografia(string nombre, int stock)
-            :this(nombre,stock,0)
+            :base(nombre,stock)
         {
    
         }
@@ -44,7 +44,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad de solo lectura que retorna false
         /// </summary>
-        public override bool EsColor
+        protected override bool EsColor
         {
             get
             {
@@ -59,7 +59,7 @@ namespace Entidades
         {
             get
             {
-                if(this.stock > 0)
+                if(this.Stock > 0)
                 {
                     return true;
                 }else
@@ -75,7 +75,9 @@ namespace Entidades
         /// <param name="nombre">nombre que se le asignara al atributo nombre de la nueva biografia</param>
         public static explicit operator Biografia(string nombre)
         {
-            return new Biografia(nombre);
+            Biografia b= new Biografia(nombre);
+            b.Stock += 1;
+            return b;
         }
     }
 }

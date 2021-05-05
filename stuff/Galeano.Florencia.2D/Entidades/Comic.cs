@@ -26,7 +26,7 @@ namespace Entidades
         /// <summary>
         /// Propiedad de solo lectura que retorna el valor del atributo 
         /// </summary>
-        public override bool EsColor
+        protected override bool EsColor
         {
             get
             {
