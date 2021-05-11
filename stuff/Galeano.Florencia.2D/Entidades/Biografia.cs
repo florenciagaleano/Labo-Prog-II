@@ -73,5 +73,6 @@ namespace Entidades
             b.Stock += 1;
             return b;
         }
+
     }
 }

@@ -78,7 +78,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Nombre: {0}", this.nombre);
+            sb.AppendFormat("Nombre: {0}", this.ToString());//this.nombre
             sb.Append($"\nStock: {this.Stock}\n");
             if(!this.EsColor)//here
             {

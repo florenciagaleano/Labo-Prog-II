@@ -29,7 +29,7 @@ namespace VistaForm
             Comic p4 = new Comic("La Muerte de Superman (Superman)", true, 1, 1850);
             Comic p5 = new Comic("Año Uno (Batman)", false, 3, 1270);
 
-            this.lstStock.Items.Add(p1);
+            this.lstStock.Items.Add(p1);//p1.ToString()
             this.lstStock.Items.Add(p2);
             this.lstStock.Items.Add(p3);
             this.lstStock.Items.Add(p4);
@@ -78,7 +78,7 @@ namespace VistaForm
 
         private void btnVerInform_Click(object sender, EventArgs e)
         {
-            this.rtbInforme.Text = Vendedor.InformeDeVentas(vendedor);
+            this.rtbInforme.Text = Vendedor.InformeDeVentas(this.vendedor);
         }
     }
 }
