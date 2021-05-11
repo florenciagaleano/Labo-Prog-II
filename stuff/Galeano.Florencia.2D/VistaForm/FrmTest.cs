@@ -38,6 +38,7 @@ namespace VistaForm
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
+            //this.close();
             if(MessageBox.Show("Esta seguro de que desea salir?","WARNING", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 Dispose();
@@ -54,7 +55,7 @@ namespace VistaForm
 
         private void btnVender_Click(object sender, EventArgs e)
         {
-            Publicacion p = this.lstStock.SelectedItem as Publicacion;
+            Publicacion p = (Publicacion)this.lstStock.SelectedItem;
 
             if (p is null)
             {

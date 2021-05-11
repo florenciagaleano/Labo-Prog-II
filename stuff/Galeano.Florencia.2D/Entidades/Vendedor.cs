@@ -37,7 +37,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator +(Vendedor v,Publicacion p)
         {
-            if(p.HayStock)
+            if(p.HayStock)//here
             {
                 v.ventas.Add(p);
                 p.Stock--;

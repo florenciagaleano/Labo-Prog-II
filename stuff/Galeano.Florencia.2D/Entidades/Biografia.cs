@@ -59,13 +59,7 @@ namespace Entidades
         {
             get
             {
-                if(this.Stock > 0)
-                {
-                    return true;
-                }else
-                {
-                    return false;
-                }
+                return base.Stock > 0;
             }
         }
 

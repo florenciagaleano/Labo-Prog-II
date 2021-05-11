@@ -80,7 +80,7 @@ namespace Entidades
 
             sb.AppendFormat("Nombre: {0}", this.nombre);
             sb.Append($"\nStock: {this.Stock}\n");
-            if(!this.EsColor)
+            if(!this.EsColor)//here
             {
                 sb.AppendLine("Tiene color: NO");
             }else
