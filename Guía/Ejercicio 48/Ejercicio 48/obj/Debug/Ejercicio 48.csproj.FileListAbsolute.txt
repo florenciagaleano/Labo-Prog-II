@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\bin\Debug\Ejercicio 48.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 48\Ejercicio 48\obj\Debug\Ejercicio 48.pdb
