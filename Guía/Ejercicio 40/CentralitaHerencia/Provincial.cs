@@ -69,7 +69,7 @@ namespace CentralitaHerencia
             return num;
         }
 
-        public string Mostrar()
+        protected string Mostrar()
         {
             return base.Mostrar() + $"  Costo llamada: {CostoLlamada}  Franja horaria: {this.franjaHoraria}";
         }

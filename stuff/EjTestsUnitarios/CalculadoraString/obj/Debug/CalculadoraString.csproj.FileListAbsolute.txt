@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\bin\Debug\CalculadoraString.dll
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\bin\Debug\CalculadoraString.pdb
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\obj\Debug\CalculadoraString.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\obj\Debug\CalculadoraString.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\obj\Debug\CalculadoraString.dll
+C:\Users\Flia. Galeano\source\repos\EjTestsUnitarios\CalculadoraString\obj\Debug\CalculadoraString.pdb

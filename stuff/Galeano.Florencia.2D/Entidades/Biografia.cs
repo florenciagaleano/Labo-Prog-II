@@ -70,7 +70,7 @@ namespace Entidades
         public static explicit operator Biografia(string nombre)
         {
             Biografia b= new Biografia(nombre);
-            b.Stock += 1;
+            //b.Stock += 1;
             return b;
         }
 

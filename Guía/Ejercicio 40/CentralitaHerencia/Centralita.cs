@@ -73,6 +73,11 @@ namespace CentralitaHerencia
         #endregion
 
         #region Metoodos
+
+        public void AgregarLlamada(Llamada llamada)
+        {
+            this.listaDeLlamadas.Add(llamada);
+        }
         private float CalcularGanancia(Llamada.TipoLlamada tipo)
         {
             float gananciaP = 0;
@@ -106,7 +111,7 @@ namespace CentralitaHerencia
             return retorno;
         }
 
-        public override string ToString()
+        private string Mostrar()
         {
             StringBuilder returnAux = new StringBuilder();
             returnAux.AppendLine($"La razon social es: ***** {this.razonSocial} *****");
@@ -116,15 +121,58 @@ namespace CentralitaHerencia
             returnAux.AppendLine("-------------------------------------------------------\n\n***** Listado de llamadas *****");
             foreach (Llamada llamada in this.Llamadas)
             {
-                returnAux.AppendLine(llamada.ToString());
+                if(llamada is Local)
+                {
+                    returnAux.AppendLine(llamada.ToString());
+                }else
+                {
+                    returnAux.AppendLine(llamada.ToString());
+                }
             }
             return returnAux.ToString();
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
 
         public void OrdenarLlamadas()
         {
             this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
+        #endregion
+
+        #region Sobrecargas
+
+        public static bool operator ==(Centralita c, Llamada llamada)
+        {
+            foreach (Llamada item in c.listaDeLlamadas)
+            {
+                if(item == llamada)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public static bool operator !=(Centralita c, Llamada llamada)
+        {
+            return !(c == llamada);
+        }
+
+        public static Centralita operator +(Centralita c, Llamada llamada)
+        {
+            if(c!=llamada)
+            {
+                c.AgregarLlamada(llamada);
+            }
+
+            return c;
+        }
+
         #endregion
     }
 }

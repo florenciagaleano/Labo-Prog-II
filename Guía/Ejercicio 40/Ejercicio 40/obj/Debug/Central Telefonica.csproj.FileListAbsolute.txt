@@ -1,2 +1,0 @@
-C:\Users\Flia. Galeano\source\repos\Ejercicio 40\Ejercicio 37\obj\Debug\Central Telefonica.csprojAssemblyReference.cache
-C:\Users\Flia. Galeano\source\repos\Ejercicio 40\Ejercicio 37\obj\Debug\Central Telefonica.csproj.CoreCompileInputs.cache
