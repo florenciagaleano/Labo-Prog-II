@@ -8,14 +8,15 @@ namespace Ejercicio_42
 {
     public class OtraClase
     {
-        static void Metodo()
+        public void MetodoDeInstancia()
         {
             try
             {
                 new MiClase(10);
-            }catch(MiExcepcion miEx)
+            }
+            catch (MiExcepcion miEx)
             {
-                throw new Exception("Mi ex de otraClase", miEx);
+                throw new UnaExcepcion("Mi ex de otraClase", miEx);
             }
         }
     }

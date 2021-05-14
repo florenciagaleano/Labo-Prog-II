@@ -11,5 +11,9 @@ namespace Ejercicio_42
         public UnaExcepcion(string mensaje)
             :base(mensaje)
         { }
+
+        public UnaExcepcion(string mensaje,Exception innerException)
+            : base(mensaje,innerException)
+        { }
     }
 }

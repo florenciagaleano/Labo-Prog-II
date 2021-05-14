@@ -12,10 +12,21 @@ namespace Ejercicio_42
         {
             try
             {
-                throw new MiExcepcion("Mi excepcion♥");
-            }catch(MiExcepcion e)
+                OtraClase x = new OtraClase();
+                x.MetodoDeInstancia();
+            }catch(Exception ex)
             {
-                Console.WriteLine(e);
+                Console.WriteLine(ex.Message);
+
+                if(!object.ReferenceEquals(ex.InnerException,null))
+                {
+                    while (!object.ReferenceEquals(ex, null))
+                    {
+                        Exception e = ex.InnerException;
+                        Console.WriteLine(e.Message);//voy imprimiendo todas las excepciones ya entendi
+                    }
+                }
+
             }
 
             Console.ReadKey();

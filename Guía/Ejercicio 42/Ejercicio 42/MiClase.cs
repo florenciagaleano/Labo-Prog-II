@@ -8,14 +8,15 @@ namespace Ejercicio_42
 {
     public class MiClase
     {
-        public MiClase(string str)
+        public MiClase()
         {
             try
             {
-                MiClase.MetodoEstatico();
-            }catch(Exception e)
+                new MiClase(10);
+            }
+            catch (Exception e)
             {
-                throw new Exception("1er ctor",e);
+                new MiExcepcion("2do ctor", e.InnerException);
             }
         }
 
@@ -23,10 +24,12 @@ namespace Ejercicio_42
         {
             try
             {
-                new MiClase("Hola");
-            }catch(UnaExcepcion e)
+                MiClase.MetodoEstatico();
+            }
+            catch (DivideByZeroException e)
             {
-                throw new Exception("2do ctor", e);
+
+                throw new UnaExcepcion("Miclase",e);
             }
         }
 
