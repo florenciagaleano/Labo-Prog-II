@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\bin\Debug\Test.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\bin\Debug\Test.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\bin\Debug\Test.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\bin\Debug\Ejercicio 30-36-46-49.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\bin\Debug\Ejercicio 30-36-46-49.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\obj\Debug\Test.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Test\obj\Debug\Test.pdb

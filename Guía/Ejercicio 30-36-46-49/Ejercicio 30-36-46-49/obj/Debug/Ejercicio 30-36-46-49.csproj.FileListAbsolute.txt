@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\bin\Debug\Ejercicio 30-36-46-49.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\bin\Debug\Ejercicio 30-36-46-49.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\obj\Debug\Ejercicio 30-36-46-49.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\obj\Debug\Ejercicio 30-36-46-49.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\obj\Debug\Ejercicio 30-36-46-49.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\Ejercicio 30-36-46-49\obj\Debug\Ejercicio 30-36-46-49.pdb

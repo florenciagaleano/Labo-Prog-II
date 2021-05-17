@@ -1,0 +1,19 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\TestCompetencia.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\TestCompetencia.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Ejercicio 30-36-46-49.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Ejercicio 30-36-46-49.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\obj\Debug\TestCompetencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\obj\Debug\TestCompetencia.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\obj\Debug\TestCompetencia.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\obj\Debug\TestCompetencia.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio 30-36-46-49\TestCompetencia\obj\Debug\TestCompetencia.pdb
