@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\bin\Debug\Entidades-Interfaces.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\bin\Debug\Entidades-Interfaces.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\obj\Debug\Entidades-Interfaces.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\obj\Debug\Entidades-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\obj\Debug\Entidades-Interfaces.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Entidades-Interfaces\obj\Debug\Entidades-Interfaces.pdb

@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\bin\Debug\Ejercicio Interfaces.exe.config
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\bin\Debug\Ejercicio Interfaces.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\bin\Debug\Ejercicio Interfaces.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\bin\Debug\Entidades-Interfaces.dll
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\bin\Debug\Entidades-Interfaces.pdb
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\obj\Debug\Ejercicio Interfaces.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\obj\Debug\Ejercicio Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\obj\Debug\Ejercicio Interfaces.csproj.CopyComplete
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\obj\Debug\Ejercicio Interfaces.exe
+C:\Users\Flia. Galeano\source\repos\Ejercicio Interfaces\Ejercicio Interfaces\obj\Debug\Ejercicio Interfaces.pdb
