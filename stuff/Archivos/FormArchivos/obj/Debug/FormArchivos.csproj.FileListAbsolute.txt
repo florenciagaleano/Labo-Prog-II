@@ -1,0 +1,13 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\bin\Debug\FormArchivos.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\bin\Debug\FormArchivos.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\bin\Debug\FormArchivos.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.Form1.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Archivos\FormArchivos\obj\Debug\FormArchivos.pdb
