@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\bin\Debug\Prueba consola.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\bin\Debug\Prueba consola.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\bin\Debug\Prueba consola.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\bin\Debug\Ejercicio 52.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\bin\Debug\Ejercicio 52.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\obj\Debug\Prueba consola.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\obj\Debug\Prueba consola.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\obj\Debug\Prueba consola.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\obj\Debug\Prueba consola.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Prueba consola\obj\Debug\Prueba consola.pdb

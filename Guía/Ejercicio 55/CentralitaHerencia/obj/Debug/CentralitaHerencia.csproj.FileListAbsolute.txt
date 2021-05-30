@@ -1,0 +1,24 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Centralita Ejercicio 40\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 41\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 42\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 55\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Guía\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.pdb

@@ -9,7 +9,7 @@ namespace Ejercicio_52
     public class Boligrafo : IAcciones
     {
         private ConsoleColor colorTinta;
-        private float tinta;
+        private double tinta;
 
         public Boligrafo(int unidades,ConsoleColor color)
         {
@@ -27,7 +27,7 @@ namespace Ejercicio_52
             }
         }
 
-        public float UnidadesDeEscritura
+        public double UnidadesDeEscritura
         {
             get
             {
@@ -36,6 +36,28 @@ namespace Ejercicio_52
             {
                 this.tinta = value;
             }
+        }
+
+        public EscrituraWrapper Escribir(string texto)
+        {
+            this.tinta -= texto.Length * 0.3;
+
+            return new EscrituraWrapper(texto, ConsoleColor.Gray);
+        }
+        public bool Recargar(int unidades)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Boligrafo");
+            sb.AppendLine(this.colorTinta.ToString());
+            sb.AppendLine(this.tinta.ToString());
+
+            return sb.ToString();
+
         }
     }
 }
