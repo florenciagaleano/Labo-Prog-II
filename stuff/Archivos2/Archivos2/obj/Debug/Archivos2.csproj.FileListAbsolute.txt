@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\bin\Debug\Archivos2.exe.config
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\bin\Debug\Archivos2.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\bin\Debug\Archivos2.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\obj\Debug\Archivos2.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\obj\Debug\Archivos2.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\obj\Debug\Archivos2.exe
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\prog labo II\Labo-Prog-II\Stuff\Archivos2\Archivos2\obj\Debug\Archivos2.pdb

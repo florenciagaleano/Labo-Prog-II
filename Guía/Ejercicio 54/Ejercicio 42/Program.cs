@@ -22,10 +22,9 @@ namespace Ejercicio_42
 
                 Exception e = ex.InnerException;
                 while (!object.ReferenceEquals(e, null))
-                {
-
+                { 
                     //Console.WriteLine(e.Message);//voy imprimiendo todas las excepciones ya entendi
-                    a.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + (DateTime.Now.Year).ToString()+ (DateTime.Now.Month).ToString()+(DateTime.Now.Day).ToString() + "-" + DateTime.Now.Hour.ToString() + DateTime.Now.Hour.ToString() + ".txt", e.Message);
+                    a.Guardar(AppDomain.CurrentDomain.BaseDirectory + (DateTime.Now.Year).ToString()+ (DateTime.Now.Month).ToString()+(DateTime.Now.Day).ToString() + "-" + DateTime.Now.Hour.ToString() + DateTime.Now.Hour.ToString() + ".txt", e.Message);
                     e = e.InnerException;
                 }
             }
