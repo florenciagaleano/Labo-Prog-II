@@ -1,0 +1,7 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\bin\Debug\ThreadsYT.exe.config
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\bin\Debug\ThreadsYT.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\bin\Debug\ThreadsYT.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\obj\Debug\ThreadsYT.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\obj\Debug\ThreadsYT.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\obj\Debug\ThreadsYT.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\ThreadsYT\ThreadsYT\obj\Debug\ThreadsYT.pdb
