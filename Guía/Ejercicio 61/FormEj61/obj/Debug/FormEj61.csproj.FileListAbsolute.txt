@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\bin\Debug\FormEj61.exe.config
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\bin\Debug\FormEj61.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\bin\Debug\FormEj61.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.Form1.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 61\FormEj61\obj\Debug\FormEj61.pdb

@@ -1,0 +1,10 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\bin\Debug\Ejercicio 68.exe.config
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\bin\Debug\Ejercicio 68.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\bin\Debug\Ejercicio 68.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio 68.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio_68.FormPersona.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio_68.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio 68.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio 68.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio 68.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\Guía\Ejercicio 68\Ejercicio 68\obj\Debug\Ejercicio 68.pdb
