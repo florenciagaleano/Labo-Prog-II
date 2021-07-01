@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\bin\Debug\Archivos.dll
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.dll
+C:\Users\Flia. Galeano\Downloads\SistemaSolar-Cascara\Archivos\obj\Debug\Archivos.pdb
