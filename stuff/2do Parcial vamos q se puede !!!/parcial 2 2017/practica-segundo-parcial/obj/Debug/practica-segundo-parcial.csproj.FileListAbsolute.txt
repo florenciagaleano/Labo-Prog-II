@@ -1,0 +1,15 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\practica-segundo-parcial.exe.config
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\practica-segundo-parcial.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\practica-segundo-parcial.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\Interfaces.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\bin\Debug\Interfaces.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica_segundo_parcial.FrmPrincipal.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica_segundo_parcial.Properties.Resources.resources
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.csproj.GenerateResource.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.exe
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\practica-segundo-parcial\obj\Debug\practica-segundo-parcial.pdb

@@ -1,0 +1,9 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\bin\Debug\Interfaces.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\bin\Debug\Interfaces.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,6 @@
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Flia. Galeano\Desktop\Labo-Prog-II\stuff\Forms\Interfaces\obj\Debug\Interfaces.pdb
