@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Entidades
 {
@@ -48,6 +49,8 @@ namespace Entidades
         public short VelocidadTraslacion { get => velocidadTraslacion; set => velocidadTraslacion = value; }
         public short PosicionActual { get => posicionActual; set => posicionActual = value; }
         public short RadioRespectoSol { get => radioRespectoSol; set => radioRespectoSol = value; }
+
+        [System.Xml.Serialization.XmlIgnore]
         public object ObjetoAsociado1 { get => objetoAsociado; set => objetoAsociado = value; }
 
 
@@ -72,5 +75,14 @@ namespace Entidades
             } while (true);
         }
 
+        public override bool Equals(object obj)
+        {
+            Planeta p = (Planeta)obj;
+            if(p.RadioRespectoSol == this.RadioRespectoSol && this.PosicionActual == p.posicionActual && p.VelocidadTraslacion == this.velocidadTraslacion)
+            {
+                return true;
+            }
+            return false; 
+        }
     }
 }
