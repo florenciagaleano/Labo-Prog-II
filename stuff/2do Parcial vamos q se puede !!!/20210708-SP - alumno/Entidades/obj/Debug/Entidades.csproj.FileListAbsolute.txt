@@ -1,0 +1,5 @@
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\20210708-SP - alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\20210708-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\20210708-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\20210708-SP - alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Flia. Galeano\Desktop\Datos\Flor UTN\20210708-SP - alumno\Entidades\obj\Debug\Entidades.pdb

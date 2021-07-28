@@ -33,11 +33,6 @@ namespace CheatSheet
             return seGuardo;
         }
 
-        /// <summary>
-        /// Lee un archivo de texto
-        /// </summary>
-        /// <param name="ruta">Ruta de la cuál se lee el archivo</param>
-        /// <returns>La información contenida en el archivo</returns>
         public string Leer(string ruta)
         {
             try
